@@ -1,0 +1,19 @@
+## 学習記録.datepicker {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-bottom: 16px;
+
+    input {
+      width: 60px; // 時間・分だけ少し狭く
+    }
+
+    span {
+      font-size: 14px;
+    }
+  }
+
+  .concentration-meter {
+    margin-bottom: 16px;
+  }
+
